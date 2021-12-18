@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Spacious-react/static/css/main.04179b6f.css",
+    "main.js": "/Spacious-react/static/js/main.a43d86d2.js",
+    "static/media/character3.png": "/Spacious-react/static/media/character3.a7f4a59a3da4a9f76ae9.png",
+    "static/media/character6.png": "/Spacious-react/static/media/character6.839b5ded01673936440a.png",
+    "static/media/character7.png": "/Spacious-react/static/media/character7.fadfa6788d738ced6d21.png",
+    "static/media/character9.png": "/Spacious-react/static/media/character9.d1414f7c2e598a157e50.png",
+    "static/media/character5.png": "/Spacious-react/static/media/character5.2316ee86249441d9769e.png",
+    "static/media/character12.png": "/Spacious-react/static/media/character12.9386853680355262af46.png",
+    "static/media/character10.png": "/Spacious-react/static/media/character10.f6fdbe593a2cfcd16cb4.png",
+    "static/media/character4.png": "/Spacious-react/static/media/character4.1fd020f55188a57acf48.png",
+    "static/media/character11.png": "/Spacious-react/static/media/character11.436dd33bdc7730b6db0e.png",
+    "static/media/character1.png": "/Spacious-react/static/media/character1.b8cf9c50ab71ce33a851.png",
+    "static/media/character8.png": "/Spacious-react/static/media/character8.341f1453e79ae7f8b7f9.png",
+    "static/media/character2.png": "/Spacious-react/static/media/character2.6859fefd6be53572bf76.png",
+    "static/media/planetloader.svg": "/Spacious-react/static/media/planetloader.7e1845229e281949b2eff4665899739e.svg",
+    "static/media/planet1.svg": "/Spacious-react/static/media/planet1.384a5457715c8e52bf1816226f6997d4.svg",
+    "static/media/planet2.svg": "/Spacious-react/static/media/planet2.83ed008c1cabfe2851f1afc966c6b314.svg",
+    "static/media/planet3.svg": "/Spacious-react/static/media/planet3.1e7e89f241b5f6689bd0f3da547a53e2.svg",
+    "static/media/planet4.svg": "/Spacious-react/static/media/planet4.dcf17b9a0a4f7b3a736852d16454340d.svg",
+    "static/media/planet5.svg": "/Spacious-react/static/media/planet5.92952d74e1ce462f141cba0723d1ffdb.svg",
+    "static/media/planet6.svg": "/Spacious-react/static/media/planet6.66e9910c61874ba19a6f0f4bed59ee37.svg",
+    "static/media/planet7.svg": "/Spacious-react/static/media/planet7.2f74e7f81a29149b96af1452831be805.svg",
+    "static/media/planet8.svg": "/Spacious-react/static/media/planet8.48c0a61036aefab266cb9d0b82adee69.svg",
+    "static/media/planet9.svg": "/Spacious-react/static/media/planet9.c5b1f7499ca7ba075f79d08d4efeeca0.svg",
+    "index.html": "/Spacious-react/index.html",
+    "main.04179b6f.css.map": "/Spacious-react/static/css/main.04179b6f.css.map",
+    "main.a43d86d2.js.map": "/Spacious-react/static/js/main.a43d86d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04179b6f.css",
+    "static/js/main.a43d86d2.js"
+  ]
+}
