@@ -22,11 +22,6 @@ function MyXtercards({ name, ...props }) {
     
     return (
         <>
-        <Form.Select aria-label="Default select example" className="select-planet position-absolute small" style={{ width: 'min-content' }}>
-            <option value="0" >Planet: ALL ⬇ </option>
-            <option value="1" >Planet: Alpha </option>
-            <option value="2" >Planet: Friends </option>
-        </Form.Select>
         <Row xs={1} md={3} lg={4} sm={1} className="d-flex justify-content-between position-relative">
         
 
